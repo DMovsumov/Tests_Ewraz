@@ -4,5 +4,5 @@
 ### Запуск
 #### Сначала запускаем json:server
 cd fakeREST && npm install && npm run json:server
-#### Затем запускаем клиент
+#### Затем переходим в папку app запускаем клиент
 cd app && npm install && npm run dev
