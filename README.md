@@ -3,14 +3,10 @@
 
 ### Запуск
 #### Сначала запускаем json:server
-***
-cd fakeREST
+<cd fakeREST
 npm install
-npm run json:server
-***
+npm run json:server>
 #### Затем запускаем клиент
-***
-cd app
+<cd app
 npm install
-npm run dev
-***
+npm run dev>
